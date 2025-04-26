@@ -1,0 +1,61 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jhapa Topup Center</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #00adef;
+      text-align: center;
+      color: white;
+    }
+    header {
+      padding: 20px;
+    }
+    img.logo {
+      width: 200px;
+      height: auto;
+    }
+    h1 {
+      margin-top: 10px;
+      font-size: 2.5rem;
+    }
+    .content {
+      margin: 40px auto;
+      max-width: 600px;
+      background: #000000aa;
+      padding: 20px;
+      border-radius: 10px;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 1rem;
+      background-color: #ffcc00;
+      color: #000;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 0.9rem;
+      color: #ddd;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="file-J94oXzsBMyNPQGvAyLPUWk" alt="Jhapa Topup Center Logo" class="logo" />
+    <h1>Jhapa Topup Center</h1>
+  </header>
+  <div class="content">
+    <p>Welcome to Jhapa Topup Center! Get instant top-ups for your favorite games.</p>
+    <button>Top Up Now</button>
+  </div>
+  <footer>
+    &copy; 2025 Jhapa Topup Center. All rights reserved.
+  </footer>
+</body>
+</html>
